@@ -11,4 +11,4 @@
 {For further information, queries and help, call 0703799195 or send an e-mail to sammy.gumbo.sg@gmail.com}
 ### License
 *{MIT}*
-Copyright (c) {year} **{Samuel Gumbo}**
+Copyright (c) {2018} **{Samuel Gumbo}**
