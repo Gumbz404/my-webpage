@@ -1,0 +1,5 @@
+h2 {font-style: oblique; background-color: red;}
+img { height: 320px; padding-left: 30%}
+.column {float: left; width:50%; column-gap: 40px;}
+.rar {float: right; width:30%; height: 80px;}
+p {font-style: oblique;}
